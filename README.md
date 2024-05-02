@@ -388,7 +388,7 @@ product.html
         .container1 {
       max-width: 1200px;
       margin: 0 auto;
-      padding: 18px;
+      padding: 0px;
       display: flex;
       justify-content: space-between;
       flex-wrap: wrap;
